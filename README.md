@@ -6,6 +6,6 @@
   <h2>Screenshot</h2>
   ![image](https://user-images.githubusercontent.com/54809626/79459798-7b521e00-8011-11ea-87f7-f9bb12301ab7.png
   <h2>Description<h2>
-    Add items using the add button.A mouseclick on item strikes and records the completed item .After done with all the items click on clear task button which then redirects the user's to netflx where you can proceed to watch something of your choice.
+  <p> Add items using the add button.A mouseclick on item strikes and records the completed item .After done with all the items click on clear task button which then redirects the user's to netflx where you can proceed to watch something of your choice.</p>
 
 
